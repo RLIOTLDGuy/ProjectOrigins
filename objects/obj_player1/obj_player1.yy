@@ -1,19 +1,21 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
   "name": "obj_player1",
   "spriteId": {
     "name": "spr_solid",
     "path": "sprites/spr_solid/spr_solid.yy",
   },
-  "spriteMaskId": null,
-  "visible": true,
   "solid": false,
-  "persistent": false,
-  "physicsObject": false,
+  "visible": true,
   "managed": true,
+  "spriteMaskId": null,
+  "persistent": false,
   "parentObjectId": {
     "name": "par_player",
     "path": "objects/par_player/par_player.yy",
   },
+  "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
   "physicsGroup": 1,
@@ -32,7 +34,4 @@
     "name": "GameSettings",
     "path": "folders/Objects/GameSettings.yy",
   },
-  "resourceVersion": "1.0",
-  "tags": [],
-  "resourceType": "GMObject",
 }

@@ -1,19 +1,21 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
   "name": "obj_doorA",
   "spriteId": {
     "name": "spr_doorA",
     "path": "sprites/spr_doorA/spr_doorA.yy",
   },
-  "spriteMaskId": null,
-  "visible": true,
   "solid": false,
-  "persistent": false,
-  "physicsObject": false,
+  "visible": true,
   "managed": true,
+  "spriteMaskId": null,
+  "persistent": false,
   "parentObjectId": {
     "name": "par_doortriggers",
     "path": "objects/par_doortriggers/par_doortriggers.yy",
   },
+  "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
   "physicsGroup": 1,
@@ -32,7 +34,4 @@
     "name": "Warps N' Doors",
     "path": "folders/Objects/Warps N' Doors.yy",
   },
-  "resourceVersion": "1.0",
-  "tags": [],
-  "resourceType": "GMObject",
 }
