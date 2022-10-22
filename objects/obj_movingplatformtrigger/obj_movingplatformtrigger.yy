@@ -7,7 +7,7 @@
     "path": "sprites/spr_movingplatformtrigger/spr_movingplatformtrigger.yy",
   },
   "solid": false,
-  "visible": true,
+  "visible": false,
   "managed": true,
   "spriteMaskId": null,
   "persistent": false,
