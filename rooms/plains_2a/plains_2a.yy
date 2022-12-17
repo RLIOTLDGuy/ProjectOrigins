@@ -139,6 +139,6 @@
   },
   "parent": {
     "name": "Perilous Plains",
-    "path": "folders/Rooms/Perilous Plains.yy",
+    "path": "folders/Rooms/Levels/Lush Wires/Perilous Plains.yy",
   },
 }

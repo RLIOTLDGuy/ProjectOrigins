@@ -1,0 +1,1 @@
+scr_slidetransition(TRANSITION_MODE.RESTART);

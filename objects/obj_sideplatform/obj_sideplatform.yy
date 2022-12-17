@@ -7,7 +7,7 @@
     "path": "sprites/spr_sideplatform/spr_sideplatform.yy",
   },
   "solid": false,
-  "visible": false,
+  "visible": true,
   "managed": true,
   "spriteMaskId": null,
   "persistent": false,
