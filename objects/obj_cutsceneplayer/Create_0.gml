@@ -1,4 +1,4 @@
-cutscene = video_open("test.mp4");
+cutscene = video_open("moviedata/test.mp4");
 //can also be a url lol
 //this immediately starts the video
 //"playing" in memory
@@ -9,3 +9,6 @@ cutscene = video_open("test.mp4");
 
 video_enable_loop(false)
 //makes the video loop and vice versa
+
+if room != rm_splashscreen
+	instance_destroy();

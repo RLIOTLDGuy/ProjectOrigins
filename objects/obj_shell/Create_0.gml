@@ -73,7 +73,7 @@ if (instance_number(object_index) > 1) {
 /// Opens the shell
 function open() {
 	isOpen = true;
-	keyboard_string = "";
+	keyboard_string = "F5";
 	if (!is_undefined(openFunction)) {
 		openFunction();
 	}

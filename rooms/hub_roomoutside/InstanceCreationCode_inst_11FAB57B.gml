@@ -1,0 +1,1 @@
+TargetRoom = rm_collisiontest;

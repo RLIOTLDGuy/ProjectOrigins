@@ -1,11 +1,13 @@
 {
-  "resourceType": "GMScript",
-  "resourceVersion": "1.0",
-  "name": "scr_mathFunctions",
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "Collisions",
-    "path": "folders/Scripts/Collisions.yy",
+  "$GMScript":"v1",
+  "%Name":"scr_mathFunctions",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_mathFunctions",
+  "parent":{
+    "name":"Collisions",
+    "path":"folders/Scripts/Collisions.yy",
   },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

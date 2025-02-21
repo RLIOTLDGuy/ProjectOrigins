@@ -1,10 +1,10 @@
-/// @desc move to next room
-
-with (par_player)
+with other
 {
-	if (hasControl)
-	{
-		hasControl = false;
-		scr_slidetransition(TRANSITION_MODE.GOTO,other.TargetRoom);
-	}
+	TargetRoom = other.TargetRoom;
+	TargetDoor = other.TargetDoor;
+	
+	x = lerp(other.bbox_left, other.bbox_right, 0.5);
+	
+	if !instance_exists(obj_fadeLVL)
+		instance_create(0, 0, obj_fadeLVL);
 }

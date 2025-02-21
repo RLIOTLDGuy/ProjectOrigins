@@ -1,11 +1,13 @@
 {
-  "resourceType": "GMScript",
-  "resourceVersion": "1.0",
-  "name": "scr_slidetransition",
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "Warps",
-    "path": "folders/Scripts/Warps.yy",
+  "$GMScript":"v1",
+  "%Name":"scr_slidetransition",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_slidetransition",
+  "parent":{
+    "name":"Warps",
+    "path":"folders/Scripts/Warps.yy",
   },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

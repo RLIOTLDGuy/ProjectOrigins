@@ -1,0 +1,16 @@
+mu_: A track that plays in the game normally.
+
+sound_: A sound that plays when something happens.
+
+sfx_: Same thing as sound_, except it's looped.
+
+vo_: A voice acting quip that plays when talking to an NPC.
+
+muP_: Placeholder music. I honestly have no fucking idea why the shit I added this entry but I had to.
+
+suP_: Placeholder sound. I also have no idea why i added this.
+
+sfxP_: Placeholder looping sound.
+
+voP_: Placeholder voice acting quip.
+SOUNDS FOLDER IS DEPRECATED, USE FMOD NOW
