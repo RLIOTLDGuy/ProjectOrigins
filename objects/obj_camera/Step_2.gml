@@ -18,6 +18,6 @@ camY = lerp(camY, targetY, SMOOTH_CAM);
 // Apply CamPos.
 camera_set_view_pos(camera, camX,camY);
 
-/*/if room == rm_splashscreen
+/*if room == rm_splashscreen
 var targetX = obj_positioner.x - RESO_W/2;
 var targetY = obj_positioner.y - RESO_H/2;

@@ -5,8 +5,8 @@
   "isDnD":false,
   "name":"scr_collide",
   "parent":{
-    "name":"Misc. Scripts",
-    "path":"folders/Scripts/Misc. Scripts.yy",
+    "name":"Misc",
+    "path":"folders/Scripts/Misc.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

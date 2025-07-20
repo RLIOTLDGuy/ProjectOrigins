@@ -29,3 +29,11 @@ var window_width = RESO_W * RESO_SCALE;
 var window_height = RESO_H * RESO_SCALE;
 
 window_set_position(display_width/2 - window_width/2, display_height/2 - window_height/2);
+
+camShakeList = ds_list_create()
+addCameraShake = function(mag, decel, time) constructor
+{
+	shakeMag = mag
+	shakeDecel = decel
+	shakeTime = time
+}
